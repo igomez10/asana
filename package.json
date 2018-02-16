@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "npm install && node server.js"
+  },
+  "dependencies": {
+    "asana": "^0.15.1",
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  }
+}
